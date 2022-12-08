@@ -33,7 +33,6 @@ img {
   flex-wrap: wrap;
   justify-content: flex-start;
   align-items: center;
-
   list-style: none;
 }
 
@@ -46,6 +45,6 @@ img {
 }
 
 .gallery__img {
-  width: 450px;
-  height: 300px;
+  width: 400px;
+  height: 280px;
 }
